@@ -31,7 +31,7 @@ Nama asistem praktikum 2: David Panondang Sinaga
 2. Download atau clone repository ini.
 3. Buka aplikasi compiler anda atau anda bisa jalankan di compiler online
 4. Jalankan program dengan menekan tombol run
-5. Masukkan pilihan sesuai opsi yang diberika.
+5. Masukkan pilihan sesuai opsi yang diberikan.
 6. Masukkan nilai resistor pada masing-masing rangkaian.
 7. Program akan melakukan konversi dan menampilkan hasilnya.
 
@@ -40,7 +40,7 @@ Nama asistem praktikum 2: David Panondang Sinaga
 
 | File |      link     |
 | ------ | ------ |
-| Laporan | https://drive.google.com/file/d/1DXZSkQJ7su0q-u3gfPN6aYwXopifgZOW/view?usp=sharing |
+| Laporan | https://drive.google.com/file/d/1z1dgUg9lPurwJtahZD9nvUFxlD1Sv7TE/view?usp=drive_link |
 | Program | https://github.com/AbiyyuPahlevi/TUBES-PKS-2/blob/main/README.md |
 | Program running | https://replit.com/@AbiyyuPahlevi/Tugas-Besar-PKS-2 |
 | Video | https://www.youtube.com/watch?v=CuLXWW4_IQw |
